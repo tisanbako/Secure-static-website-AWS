@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a78e28;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.photo-container {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #0866d1;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.photo-container img {
+    width: 100%;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
